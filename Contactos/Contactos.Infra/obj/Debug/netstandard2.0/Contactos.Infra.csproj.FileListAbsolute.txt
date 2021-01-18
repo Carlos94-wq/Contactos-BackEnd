@@ -1,0 +1,12 @@
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\bin\Debug\netstandard2.0\Contactos.Core.dll
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\obj\Debug\netstandard2.0\Contactos.Infra.csprojAssemblyReference.cache
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\obj\Debug\netstandard2.0\Contactos.Infra.AssemblyInfoInputs.cache
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\obj\Debug\netstandard2.0\Contactos.Infra.AssemblyInfo.cs
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\bin\Debug\netstandard2.0\Contactos.Infra.deps.json
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\bin\Debug\netstandard2.0\Contactos.Infra.dll
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\bin\Debug\netstandard2.0\Contactos.Infra.pdb
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\bin\Debug\netstandard2.0\Contactos.Core.pdb
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\obj\Debug\netstandard2.0\Contactos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\obj\Debug\netstandard2.0\Contactos.Infra.csproj.CopyComplete
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\obj\Debug\netstandard2.0\Contactos.Infra.dll
+C:\Users\Charly\source\repos\Contactos\Contactos.Infra\obj\Debug\netstandard2.0\Contactos.Infra.pdb

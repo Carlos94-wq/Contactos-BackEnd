@@ -1,0 +1,9 @@
+C:\Users\Charly\source\repos\Contactos\Contactos.Core\bin\Debug\netstandard2.0\Contactos.Core.deps.json
+C:\Users\Charly\source\repos\Contactos\Contactos.Core\bin\Debug\netstandard2.0\Contactos.Core.dll
+C:\Users\Charly\source\repos\Contactos\Contactos.Core\bin\Debug\netstandard2.0\Contactos.Core.pdb
+C:\Users\Charly\source\repos\Contactos\Contactos.Core\obj\Debug\netstandard2.0\Contactos.Core.csprojAssemblyReference.cache
+C:\Users\Charly\source\repos\Contactos\Contactos.Core\obj\Debug\netstandard2.0\Contactos.Core.AssemblyInfoInputs.cache
+C:\Users\Charly\source\repos\Contactos\Contactos.Core\obj\Debug\netstandard2.0\Contactos.Core.AssemblyInfo.cs
+C:\Users\Charly\source\repos\Contactos\Contactos.Core\obj\Debug\netstandard2.0\Contactos.Core.csproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\Contactos\Contactos.Core\obj\Debug\netstandard2.0\Contactos.Core.dll
+C:\Users\Charly\source\repos\Contactos\Contactos.Core\obj\Debug\netstandard2.0\Contactos.Core.pdb
